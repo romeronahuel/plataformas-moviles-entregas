@@ -30,7 +30,7 @@ function calcularPromedio(listaDeNumeros) {
 }
 
 console.log("calcularPromedio([2,3,4]): ", calcularPromedio([2,3,4]));
-console.log("calcularPromedio(listaNumerosEjemplo): ", calcularPromedio(listaNumerosEjemplo));
+// console.log("calcularPromedio(listaNumerosEjemplo): ", calcularPromedio(listaNumerosEjemplo));   
 
 /**
  * Recibe
@@ -66,7 +66,7 @@ function ordenarDeMayorAMenor(listaDeNumeros) {
 }
 
 console.log("ordenarDeMayorAMenor([2,3,4]): ", ordenarDeMayorAMenor([2,3,4]));
-console.log("ordenarDeMayorAMenor(listaNumerosEjemplo): ", ordenarDeMayorAMenor(listaNumerosEjemplo));
+// console.log("ordenarDeMayorAMenor(listaNumerosEjemplo): ", ordenarDeMayorAMenor(listaNumerosEjemplo));
 
 /**
  * Recibe
@@ -117,7 +117,7 @@ function filtrarSoloPositivos(listaDeNumeros) {
 }
 
 console.log("filtrarSoloPositivos([1,-1,0]): ", filtrarSoloPositivos([1,-1,0]));
-console.log("filtrarSoloPositivos(listaNumerosEjemplo): ", filtrarSoloPositivos(listaNumerosEjemplo));
+// console.log("filtrarSoloPositivos(listaNumerosEjemplo): ", filtrarSoloPositivos(listaNumerosEjemplo));
 
 /**
  * Recibe
