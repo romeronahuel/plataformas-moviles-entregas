@@ -130,4 +130,3 @@ function palabraInvertida(str){
     return str.split('').reverse().join('');;
 }
 console.log("palabraInvertida(\"hola\"): ", palabraInvertida("hola"))
-
